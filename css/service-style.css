@@ -4,7 +4,7 @@
 
 #hero {
   width: 100%;
-  height: 60vh;
+  height: 30vh;
   background: url(../img/office-action.jpg) top center;
   background-size: cover;
   position: relative;
@@ -12,6 +12,7 @@
 
 #hero h1{
   font-family: 'Nanum Myeongjo', serif;
+  font-size: 35px;
 }
 
 #service-header.header-fixed {
